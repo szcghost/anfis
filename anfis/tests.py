@@ -1,7 +1,7 @@
 import anfis
 import membership.mfDerivs
 import membership.membershipfunction
-
+#sfwefwefwfj
 import numpy
 
 ts = numpy.loadtxt("trainingSet.txt", usecols=[1,2,3])#numpy.loadtxt('c:\\Python_fiddling\\myProject\\MF\\trainingSet.txt',usecols=[1,2,3])
