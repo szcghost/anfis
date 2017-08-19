@@ -2,6 +2,7 @@ import anfis
 import membership #import membershipfunction, mfDerivs
 import numpy
 
+# 宋之辰
 ts = numpy.loadtxt("trainingSet.txt", usecols=[1,2,3])#numpy.loadtxt('c:\\Python_fiddling\\myProject\\MF\\trainingSet.txt',usecols=[1,2,3])
 X = ts[:,0:2]
 Y = ts[:,2]
